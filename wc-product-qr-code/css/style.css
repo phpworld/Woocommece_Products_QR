@@ -1,0 +1,9 @@
+.product-qr-code {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.product-qr-code img {
+    max-width: 150px;
+    height: auto;
+}
